@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hiresum/static/css/main.719975d8.css",
-    "main.js": "/hiresum/static/js/main.1f025798.js",
+    "main.js": "/hiresum/static/js/main.3e679fc2.js",
     "static/js/787.f760b4de.chunk.js": "/hiresum/static/js/787.f760b4de.chunk.js",
     "static/media/prof3.jpg": "/hiresum/static/media/prof3.745a2e47dcf56e7f48ad.jpg",
     "static/media/prof1.jpg": "/hiresum/static/media/prof1.091fd0079868b36abece.jpg",
@@ -31,11 +31,11 @@
     "static/media/divider2.svg": "/hiresum/static/media/divider2.15dc8595a939472a7ea41c7c505d734f.svg",
     "static/media/divider1.svg": "/hiresum/static/media/divider1.053b40e8d84de209c6c942df2ba85ff5.svg",
     "main.719975d8.css.map": "/hiresum/static/css/main.719975d8.css.map",
-    "main.1f025798.js.map": "/hiresum/static/js/main.1f025798.js.map",
+    "main.3e679fc2.js.map": "/hiresum/static/js/main.3e679fc2.js.map",
     "787.f760b4de.chunk.js.map": "/hiresum/static/js/787.f760b4de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.719975d8.css",
-    "static/js/main.1f025798.js"
+    "static/js/main.3e679fc2.js"
   ]
 }
