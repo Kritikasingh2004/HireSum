@@ -12,7 +12,7 @@ AOS.init();
 
 function App() {
   return (
-    <BrowserRouter basename="hiresum">
+    <BrowserRouter basename="/hiresum">
       <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/login" element={<Login />} />
