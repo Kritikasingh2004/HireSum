@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/hiresum/static/css/main.719975d8.css",
+    "main.js": "/hiresum/static/js/main.0946f729.js",
+    "static/js/787.f760b4de.chunk.js": "/hiresum/static/js/787.f760b4de.chunk.js",
+    "static/media/prof3.jpg": "/hiresum/static/media/prof3.745a2e47dcf56e7f48ad.jpg",
+    "static/media/prof1.jpg": "/hiresum/static/media/prof1.091fd0079868b36abece.jpg",
+    "static/media/hiring1.png": "/hiresum/static/media/hiring1.ff369c2db50bd9b04ef5.png",
+    "static/media/prof2.jpg": "/hiresum/static/media/prof2.eb99d524a47c3d62d8bd.jpg",
+    "static/media/hiring3.jpg": "/hiresum/static/media/hiring3.702e439b3f942b57ba3e.jpg",
+    "static/media/hiring.jpg": "/hiresum/static/media/hiring.34a18143a17e4abfee02.jpg",
+    "static/media/hiring4.jpg": "/hiresum/static/media/hiring4.e4f4750ee6c97b258411.jpg",
+    "static/media/hiring2.jpg": "/hiresum/static/media/hiring2.d13a83152f4d3ebca06e.jpg",
+    "static/media/leaf.png": "/hiresum/static/media/leaf.fda6fa2a41425eb3772c.png",
+    "static/media/plant.png": "/hiresum/static/media/plant.52ee9620a007d0456fa2.png",
+    "static/media/hill4.png": "/hiresum/static/media/hill4.0cdbd1e898e72ed8423a.png",
+    "static/media/hill5.png": "/hiresum/static/media/hill5.b22537c152b0785df601.png",
+    "static/media/hill2.png": "/hiresum/static/media/hill2.a00a31b737722f3d26dd.png",
+    "static/media/instagram.png": "/hiresum/static/media/instagram.79535458a8a6d88f81d4.png",
+    "static/media/tree.png": "/hiresum/static/media/tree.0ef7d8ffa3f2f406c708.png",
+    "static/media/hill3.png": "/hiresum/static/media/hill3.381e0eb4ad83f9513282.png",
+    "static/media/hill1.png": "/hiresum/static/media/hill1.e4a053d5048c2ea8a3b4.png",
+    "static/media/twitter.png": "/hiresum/static/media/twitter.f87fab6e76b591c59da9.png",
+    "static/media/linkedin.png": "/hiresum/static/media/linkedin.703626263087e3e7c315.png",
+    "static/media/slick.svg": "/hiresum/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/hiresum/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/hiresum/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/hiresum/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/divider.svg": "/hiresum/static/media/divider.6b2d75ca0642468f6b4815ad1b3c4cb2.svg",
+    "index.html": "/hiresum/index.html",
+    "static/media/divider2.svg": "/hiresum/static/media/divider2.15dc8595a939472a7ea41c7c505d734f.svg",
+    "static/media/divider1.svg": "/hiresum/static/media/divider1.053b40e8d84de209c6c942df2ba85ff5.svg",
+    "main.719975d8.css.map": "/hiresum/static/css/main.719975d8.css.map",
+    "main.0946f729.js.map": "/hiresum/static/js/main.0946f729.js.map",
+    "787.f760b4de.chunk.js.map": "/hiresum/static/js/787.f760b4de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.719975d8.css",
+    "static/js/main.0946f729.js"
+  ]
+}
