@@ -17,7 +17,7 @@ const Footer = () => {
                             Phone : <a href="tel:+91 9889494645">+91 9889494645</a>
                         </li>
                         <li>
-                            Email : <a href="mailto:hiresumcontact@gmail.com" target="_blank">hiresumsupport@gmail.com</a>
+                            Email : <a href="mailto:hiresumcontact@gmail.com" target="_blank" rel="noreferrer">hiresumsupport@gmail.com</a>
                         </li>
                         <li>
                             Address : <span>Maumbai, Maharastra, India</span>
@@ -37,11 +37,11 @@ const Footer = () => {
                 <div class="follow_us">
                     <h2 data-aos="zoom-in-left"> FOLLOW US</h2>
                     <div class="social_images" data-aos="fade-up">
-                        <a href="https://instagram.com" target="_blank"><img
+                        <a href="https://instagram.com" target="_blank" rel="noreferrer"><img
                                 src={insta} alt="img"/></a>
                         <a href="https://LinkedIn.com"
-                            target="_blank" ><img src={linkedin} alt="img"/></a>
-                        <a href="https://twitter.com" target="_blank" ><img src={twitter} alt="img"/></a>
+                            target="_blank" rel="noreferrer"><img src={linkedin} alt="img"/></a>
+                        <a href="https://twitter.com" target="_blank" rel="noreferrer"><img src={twitter} alt="img"/></a>
                     </div>
                 </div>
             </section>
