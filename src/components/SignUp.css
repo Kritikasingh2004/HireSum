@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;&family=Roboto:wght@300;400;500&display=swap");
+
+:root {
+  --theme1: #406976;
+  --theme2: #182f31;
+  --hover:  #478a90;
+}
+
+.form-cont {
+  font-family: "poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.logo-wrap {
+  width: 100%;
+  background-color: var(--theme2);
+  display: flex;
+  justify-content: center;
+  padding: 1% 0;
+}
+
+.logo {
+  text-align: center;
+  color: #fff;
+  font-size: 2em;
+  font-weight: 600;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.main-head{
+    font-size: 1.9rem;
+    margin: 1%;
+    font-weight: 500;
+}
+
+hr{
+    width: 100%;
+    margin-bottom: 3%;
+    opacity: 0.3;
+}
+
+form {
+  width: 50%;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+input {
+  width: 100%;
+  padding: 1%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+}
+
+select {
+  padding: 1%;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.form-group p a{
+    cursor: pointer;
+    color: var(--theme2);
+    text-decoration: none;
+}
+
+.submit-btn {
+  background-color: var(--theme1);
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  width: 100%;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-bottom: 70px;
+}
+
+.submit-btn:hover {
+  background-color: var(--hover);
+}
+
+/* Responsive Styles */
+@media (max-width: 600px) {
+  form {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+
+  input[type="text"],
+  select {
+    width: 100%;
+  }
+
+  .submit-btn {
+    width: 100%;
+  }
+}
