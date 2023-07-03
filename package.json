@@ -2,6 +2,7 @@
   "name": "hiresum",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Kritikasingh2004.github.io/hiresum",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -12,6 +13,8 @@
     "react-countup": "^6.4.2",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.14.1",
+    "predeploy": "npm run build",
+    "deploy" : "gh-pages -d build",
     "react-scripts": "5.0.1",
     "react-slick": "^0.29.0",
     "slick-carousel": "^1.8.1",
